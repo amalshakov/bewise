@@ -40,3 +40,6 @@ http://localhost:8000/docs
 ```
 ### Автор:
 - Александр Мальшаков (ТГ [@amalshakov](https://t.me/amalshakov), GitHub [amalshakov](https://github.com/amalshakov/))
+
+### PS:
+- .env добавлен в репу (реальных секретных данных там нет)
